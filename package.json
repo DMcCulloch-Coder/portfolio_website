@@ -4,7 +4,7 @@
   "description": "Creating a Website to house my portfolio!",
   "main": "index.js",
   "scripts": {
-    "scss": "node-sass assets/sass/main.scss assets/css/style.css -w"
+    "scss": "sass --watch assets/sass/main.scss assets/css/styles.css"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DMcCulloch-Coder/portfolio_website#readme",
   "dependencies": {
-    "node-sass": "^7.0.3"
+    "sass": "^1.55.0"
   }
 }
