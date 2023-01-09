@@ -18,4 +18,3 @@ I'll figure out hosting once I get further along.
 I plan on adding two projects:
 1) React website with interesting interactions connected to a meaty, free API with a node.js backend.
 2) Either I find a buisness to make an actual site that will be used, or I'll try to make a website with something I've never used before like Next.js and a CRM or something like that.
-
